@@ -4,7 +4,7 @@
     "name": "Chinese (Simplified)",
     "nativeName": "中文 (简体)",
     "dir": "ltr",
-    "version": "0.40.0",
+    "version": "0.43.2",
     "author": "SleepBanana Community"
   },
   "messages": {
@@ -1632,6 +1632,24 @@
     "palette.aiSearchWorkspace": "AI 搜索工作区：“{query}”",
     "palette.aiSearchWorkspaceSub": "跨笔记语义检索并生成直接回答",
     "operator.selectedPassage": "已选段落",
-    "operator.askSelectionPlaceholder": "向 {provider} 询问所选段落…"
+    "operator.askSelectionPlaceholder": "向 {provider} 询问所选段落…",
+    "sidebar.projectsHeading": "项目",
+    "sidebar.newWorkspaceInProject": "在 {project} 中新建工作区",
+    "sidebar.newWorkspacePlaceholder": "工作区名称...",
+    "toast.createdWorkspace": "已创建工作区“{name}”",
+    "topbar.appearanceAria": "阅读外观",
+    "topbar.appearanceTitle": "阅读外观（宽度、缩放、字体、主题）",
+    "topbar.zoomResetTitle": "将缩放重置为 100%",
+    "topbar.zenShort": "专注",
+    "topbar.fullscreenShort": "全屏",
+    "fileAccess.title": "开启本地文件访问权限",
+    "fileAccess.subtitle": "Chrome 默认会阻止访问本地文件夹和文件，需先为 SleepBanana 开启一次文件网址访问权限。",
+    "fileAccess.step1": "点击下方的“打开扩展程序设置”，在 Chrome 中打开 SleepBanana 设置页。",
+    "fileAccess.step2": "开启“允许访问文件网址”，然后重新打开你的文件夹或文件。",
+    "fileAccess.openBtn": "打开扩展程序设置",
+    "emptyState.standaloneSubtitle": "打开任意本地文件夹或文件即可阅读、编辑和整理你的工作，或直接与 Operator 对话。",
+    "emptyState.folderSubtitle": "此文件夹为空。你可以打开其他文件夹、与 Operator 对话，或在下方创建第一篇笔记。",
+    "emptyState.openFolder": "打开文件夹",
+    "emptyState.openOperator": "打开 Operator"
   }
 }

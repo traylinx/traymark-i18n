@@ -60,9 +60,57 @@
       "dir": "ltr",
       "bundled": false,
       "file": "locales/zh.json",
-      "coveragePct": 99,
-      "translatedKeys": 1625,
-      "version": "0.40.0",
+      "coveragePct": 100,
+      "translatedKeys": 1643,
+      "version": "0.43.2",
+      "author": "SleepBanana Community"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "locales/fr.json",
+      "coveragePct": 20,
+      "translatedKeys": 321,
+      "version": "0.43.2",
+      "author": "SleepBanana Community"
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "nativeName": "日本語",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "locales/ja.json",
+      "coveragePct": 20,
+      "translatedKeys": 321,
+      "version": "0.43.2",
+      "author": "SleepBanana Community"
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "nativeName": "한국어",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "locales/ko.json",
+      "coveragePct": 20,
+      "translatedKeys": 321,
+      "version": "0.43.2",
+      "author": "SleepBanana Community"
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese (Brazil)",
+      "nativeName": "Português (Brasil)",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "locales/pt.json",
+      "coveragePct": 20,
+      "translatedKeys": 321,
+      "version": "0.43.2",
       "author": "SleepBanana Community"
     }
   ]

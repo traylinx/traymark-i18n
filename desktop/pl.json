@@ -1,0 +1,3073 @@
+{
+  "csv": {
+    "copy": "Kopiuj",
+    "moveColumnLeft": "Przesuń kolumnę w lewo",
+    "moveColumnRight": "Przesuń kolumnę w prawo",
+    "sort": "Sortuj",
+    "save": "Zapisz"
+  },
+  "browser": {
+    "loadFailure": {
+      "retry": "Ponów"
+    },
+    "navigation": {
+      "back": "Wstecz",
+      "reload": "Odśwież"
+    },
+    "sshRoute": {
+      "retry": "Ponów"
+    },
+    "userAgentMigration": {
+      "openSettings": "Otwórz ustawienia"
+    },
+    "newTab": {
+      "state": {
+        "open": "Otwórz"
+      },
+      "undo": "Cofnij"
+    },
+    "history": {
+      "close": "Zamknij",
+      "menuItem": "Historia",
+      "open": "Otwórz",
+      "removeShort": "Usuń",
+      "title": "Historia"
+    }
+  },
+  "settings": {
+    "chat": {
+      "providers": {
+        "title": "Dostawcy",
+        "installed": "Zainstalowano",
+        "install": "Zainstaluj"
+      }
+    },
+    "terminal": {
+      "windows": {
+        "cancelAdministratorRestart": "Anuluj",
+        "closeAdministratorHelp": "Zamknij"
+      }
+    },
+    "appearance": {
+      "language": {
+        "title": "Język"
+      },
+      "menuBarIcon": {
+        "keyword": {
+          "activity": "Aktywność"
+        }
+      },
+      "chat": {
+        "title": "Czat",
+        "width": "Szerokość",
+        "wide": "Szeroka",
+        "reset": "Resetuj"
+      },
+      "communityI18n": {
+        "hint": "Instaluj dodatkowe języki na żywo z traylinx/sleepbanana-i18n.",
+        "browse": "Przeglądaj języki społeczności",
+        "hide": "Ukryj języki społeczności",
+        "loading": "Ładowanie traylinx/sleepbanana-i18n…",
+        "loadFailed": "Nie udało się załadować języków.",
+        "active": "Aktywny",
+        "use": "Użyj",
+        "remove": "Usuń język",
+        "install": "Zainstaluj",
+        "loadUrl": "Wczytaj URL"
+      }
+    },
+    "agents": {
+      "removeEnvironment": "Usuń",
+      "defaultOpensAsChat": "Czat",
+      "save": "Zapisz",
+      "autoPermissions": "Auto",
+      "customArgsBadge": "Własny"
+    }
+  },
+  "menu": {
+    "settings": "Ustawienia",
+    "exit": "Wyjdź",
+    "edit": "Edytuj",
+    "appearance": "Wygląd",
+    "reload": "Odśwież",
+    "zoomIn": "Powiększ",
+    "zoomOut": "Pomniejsz",
+    "copy": "Kopiuj",
+    "selectAll": "Zaznacz wszystkie"
+  },
+  "tray": {
+    "projects": "Projekty"
+  },
+  "worktreeJumpPalette": {
+    "filter": {
+      "projects": "Projekty",
+      "back": "Wstecz"
+    },
+    "taskSearchRetry": "Ponów"
+  },
+  "auto": {
+    "App": {
+      "e960d18540": "Zamknij",
+      "844eb0f4f4": "Aktywność",
+      "1b9d9d065f": "Ustawienia",
+      "e4b9e7dff7": "Przełącz panel boczny"
+    },
+    "lib": {
+      "agent": {
+        "catalog": {
+          "9e2a9bb87b": "Kontynuuj"
+        }
+      },
+      "pr": {
+        "comment": {
+          "audience": {
+            "27ce73211c": "Wszystkie"
+          }
+        }
+      }
+    },
+    "hooks": {
+      "useSettingsNavigationMetadata": {
+        "94295ebfb3": "Skróty",
+        "93d88d20bf": "Wygląd",
+        "2b043783ef": "Integracje",
+        "devSearchKeywordError": "błąd"
+      },
+      "useMacosTccPromptNotice": {
+        "openSettings": "Otwórz ustawienia"
+      },
+      "useMacTccAttributionSeveredNotice": {
+        "folderAccessFix": "Popraw"
+      }
+    },
+    "components": {
+      "FirstLaunchBanner": {
+        "d1deebb050": "Polityka prywatności"
+      },
+      "GitHubItemDialog": {
+        "filesRetry": "Ponów",
+        "999b5ad7d9": "Pliki",
+        "45af57999b": "Zamknij podgląd",
+        "dc1ca081a8": "Otwórz",
+        "675bc0d638": "Anuluj",
+        "52b20b56f7": "Opis",
+        "9df4e74bdf": "Zapisz",
+        "a98433e73d": "Ładowanie...",
+        "038b3d39b1": "Skopiowano",
+        "3c19ec3069": "Rozwiń wszystko",
+        "timeline": {
+          "activity": "Aktywność"
+        },
+        "dcb3c546fe": "Ponów",
+        "4aecf121e7": "Zamknij"
+      },
+      "GitLabItemDialog": {
+        "a199eb364b": "Zamknij",
+        "16b3412570": "Scal",
+        "da4174b00f": "Edytuj",
+        "93f79a3fc1": "Zapisz",
+        "f72fad3b16": "Anuluj",
+        "908d8d2a73": "Opis",
+        "7a2117129a": "Dodaj",
+        "cb55b0390f": "Zarządzaj",
+        "be3d291837": "Pliki",
+        "fa3e042203": "Ponów",
+        "cae2712a23": "Zamknij",
+        "881e522e04": "Scal",
+        "11384f99aa": "Liczba"
+      },
+      "JiraIssueWorkspace": {
+        "5cd09beaf9": "Ponów",
+        "7a96985ca0": "Zamknij"
+      },
+      "Landing": {
+        "f9eaa9e12d": "Dodaj projekt",
+        "e5b7296d9d": "Git nie jest zainstalowany",
+        "16e9e3df89": "Ulubione"
+      },
+      "LinearIssueMarkdownDescriptionEditor": {
+        "d9c47069ef": "Markdown",
+        "a7301a11f3": "Zapisz",
+        "632096eb1c": "Link",
+        "c82917e06e": "Lista punktowana",
+        "5666b4493d": "Kursywa",
+        "caa88f50d0": "Pogrubienie",
+        "dddaa7a0a6": "Nagłówek 2",
+        "e3f741d258": "Nagłówek 1"
+      },
+      "LinearIssueTextEditor": {
+        "75294b07d1": "Opis"
+      },
+      "LinearIssueWorkspace": {
+        "b0eac92d85": "Ponów",
+        "543970c87a": "Aktywność",
+        "df4c86ed12": "Zamknij"
+      },
+      "LinearItemDrawer": {
+        "b5675b0694": "Zapisz",
+        "ceeb8c6153": "Wyczyść",
+        "dd304de85a": "Właściwości",
+        "858d0630da": "Zamknij podgląd"
+      },
+      "NewWorkspaceComposerCard": {
+        "2688050e4b": "Nazwa",
+        "d6b0a96f32": "Dodaj projekt",
+        "setupKindFolder": "FOLDER",
+        "connected": "połączono",
+        "notConnected": "niepołączono",
+        "hostConnectionFailed": "Połączenie nie powiodło się"
+      },
+      "PullRequestPage": {
+        "filesRetry": "Ponów",
+        "7b8f6bf6d8": "Otwórz",
+        "6591b1fa82": "Anuluj",
+        "778683ec84": "Opis",
+        "4a337ac05f": "Zapisz",
+        "57750f4a8c": "Ładowanie...",
+        "3b6886b2ee": "Skopiowano",
+        "eb722a5a8c": "Rozwiń wszystko",
+        "5df7c41d2a": "Ponów",
+        "77482513f8": "Zamknij"
+      },
+      "QuickOpen": {
+        "73b2c581f1": "Zamknij",
+        "61b1c871a6": "Otwórz",
+        "2ca749c15d": "Zainstaluj",
+        "995be8ea22": "Kopiuj",
+        "cf144856dc": "Skopiowano"
+      },
+      "SelectedTextCopyMenu": {
+        "9b40d7b018": "Kopiuj"
+      },
+      "NativeChatResumeOnRestartModal": {
+        "selectAllLabel": "Zaznacz wszystkie",
+        "done": "Gotowe"
+      },
+      "StarNagCard": {
+        "73dfd4eb8d": "Nie pytaj ponownie"
+      },
+      "TaskPage": {
+        "ff69a30681": "Anuluj",
+        "7d63e2626e": "Ładowanie...",
+        "345b169f1f": "Wysoki",
+        "1b59a07674": "Tworzenie...",
+        "b6795e65fd": "Zamknij",
+        "606a85c774": "Otwórz",
+        "f397d513e3": "Wstecz",
+        "b39fe6511d": "Projekty",
+        "443f7dd928": "Scal",
+        "b73717af92": "Nast.",
+        "5ebff3a0aa": "Brak",
+        "a6f7e93d7f": "Lista",
+        "727069bee5": "Projekty",
+        "18451e99df": "Gotowe",
+        "c2268a9982": "Wszystkie",
+        "6459faa8b3": "błąd",
+        "cbce2bc9cd": "Brak",
+        "51411113df": "Lista",
+        "6edf402e11": "Przegląd",
+        "0bfbf62f75": "Ponów",
+        "backToCloseReasons": "Wstecz"
+      },
+      "Terminal": {
+        "73768427cf": "Zamknij",
+        "f82e9f02df": "Anuluj",
+        "cd51e28d8b": "Zapisz"
+      },
+      "TerminalSearch": {
+        "db234b7519": "Zamknij",
+        "90c61387d9": "Rozróżniaj wielkość liter"
+      },
+      "UpdateCard": {
+        "ec8fe71cfc": "Aktualizuj",
+        "d5253b54af": "błąd"
+      },
+      "WorktreeJumpPalette": {
+        "75499e01d9": "Zamknij",
+        "45def60329": "Otwórz",
+        "556e7232ca": "Aktywna",
+        "50a1d11d5b": "Otwarte karty",
+        "settingsBadge": "Ustawienia"
+      },
+      "github": {
+        "pr": {
+          "merge": {
+            "state": {
+              "f958920f3a": "sprawdzanie",
+              "bd4f27b50e": "Scal"
+            }
+          }
+        },
+        "project": {
+          "GhAuthErrorHelp": {
+            "7e800068d8": "Odśwież",
+            "baa006f9af": "Dokumenty"
+          },
+          "ProjectCell": {
+            "ebde486e3c": "Wyczyść"
+          },
+          "ProjectGroupHeader": {
+            "82a22d2079": "Aktywna",
+            "244c9e7d06": "Wszystkie"
+          },
+          "ProjectPicker": {
+            "8ab5447c64": "Przypnij",
+            "fce99a24a7": "Dodaj",
+            "707843206c": "Przypięto",
+            "1a2b8e512e": "Tabela"
+          },
+          "ProjectViewWrapper": {
+            "dffa899f36": "Anuluj"
+          },
+          "slug": {
+            "dialog": {
+              "AssigneesEditor": {
+                "94a4e6e4fa": "Brak"
+              },
+              "Comments": {
+                "c0e576e96b": "Anuluj",
+                "c3e829b4d9": "Zapisz",
+                "463d030ae4": "Usuń",
+                "8564f58542": "Edytuj"
+              },
+              "LabelsEditor": {
+                "1a5366b5be": "Brak"
+              },
+              "SlugDialogBody": {
+                "a91735d19f": "Anuluj",
+                "e64f6c3eff": "Zapisz",
+                "ae98897edf": "Zamknij"
+              }
+            }
+          }
+        },
+        "GitHubMarkdownComposer": {
+          "015b4e607d": "Anuluj",
+          "d82b1e3f05": "Podgląd"
+        },
+        "PRFilterPickers": {
+          "472c12ae03": "Wyczyść"
+        },
+        "PRFilterSections": {
+          "b69fa4fa20": "Wstecz",
+          "f0cf6dd591": "Wył.",
+          "1e9b5244f2": "Wł.",
+          "d78b60b5c2": "Otwórz"
+        },
+        "github": {
+          "rate": {
+            "limit": {
+              "display": {
+                "c377a4f06a": "Szukaj"
+              }
+            }
+          }
+        }
+      },
+      "linear": {
+        "api": {
+          "key": {
+            "dialog": {
+              "f8f704a019": "Anuluj",
+              "e689a4d0a6": "błąd"
+            }
+          }
+        },
+        "project": {
+          "view": {
+            "surfaces": {
+              "8bbecb2510": "Brak",
+              "2c4b1c2c08": "Liczba"
+            }
+          }
+        }
+      },
+      "worktree": {
+        "creation": {
+          "WorktreeCreationPanel": {
+            "34dd5ee38b": "Ponów",
+            "532aea14ce": "Anuluj",
+            "cancelProvisioning": "Anuluj"
+          }
+        }
+      },
+      "workspace": {
+        "space": {
+          "WorkspaceSpacePage": {
+            "ecf72fdc3b": "Wstecz"
+          }
+        },
+        "cleanup": {
+          "WorkspaceCleanupDialog": {
+            "cbf2f664e2": "Usuń",
+            "b6bae1eed1": "Anuluj",
+            "191f0bc98e": "Zamknij",
+            "bc43c37faf": "Ukryty",
+            "9cc26c019d": "Usuń",
+            "a615e24679": "Sortuj",
+            "74f6c16279": "Wstecz"
+          },
+          "candidateRow": {
+            "pinnedBlocker": "Przypięto"
+          }
+        }
+      },
+      "ui": {
+        "dialog": {
+          "f26c4baeda": "Zamknij"
+        },
+        "sheet": {
+          "1189e9fe0a": "Zamknij"
+        }
+      },
+      "terminal": {
+        "quick": {
+          "commands": {
+            "TerminalQuickCommandDialog": {
+              "6751598542": "Edytuj"
+            },
+            "TerminalQuickCommandDialogFooter": {
+              "2e2b958dfc": "Zapisz",
+              "28370f16b9": "Anuluj"
+            }
+          }
+        },
+        "pane": {
+          "CloseTerminalDialog": {
+            "ebd2fa844d": "Zamknij",
+            "1d1a7a9c1f": "Anuluj"
+          },
+          "TerminalAgentSessionForkDialog": {
+            "2b10412cfc": "Tworzenie..."
+          },
+          "TerminalContextMenu": {
+            "f3eeb1de13": "Kopiuj",
+            "selectAll": "Zaznacz wszystkie"
+          },
+          "TerminalErrorToast": {
+            "retry": "Ponów"
+          },
+          "TerminalProcessExitOverlay": {
+            "close": "Zamknij"
+          },
+          "TerminalLinkActionPopover": {
+            "openFile": "Otwórz plik",
+            "openFolder": "Otwórz folder",
+            "copied": "Skopiowano"
+          },
+          "PinnedTabCloseDialog": {
+            "0b38ee2f86": "Anuluj",
+            "c337c9d75c": "Zamknij"
+          },
+          "TerminalSshReconnectOverlay": {
+            "connectingButton": "Łączenie...",
+            "removeWorkspaceButton": "Usuń przestrzeń"
+          }
+        }
+      },
+      "tab": {
+        "group": {
+          "TabGroupPanel": {
+            "f7d6ce445e": "Zamknij grupę",
+            "closePaneColumn": "Zamknij drugi panel"
+          }
+        },
+        "bar": {
+          "BrowserTab": {
+            "1611a1324b": "Zamknij"
+          },
+          "EditorFileTabContextMenu": {
+            "52ce4f4605": "Kopiuj ścieżkę względną",
+            "5b85754786": "Kopiuj ścieżkę",
+            "1ba8492c5b": "Zamknij",
+            "68cc610e7f": "Zmień nazwę"
+          },
+          "SortableTab": {
+            "95db5f2f7d": "Zamknij kartę"
+          },
+          "SortableTabContextMenu": {
+            "8d16f9cd30": "Zamknij pozostałe",
+            "89359a36f7": "Zamknij",
+            "20baa43c05": "Brak"
+          },
+          "TabBarCreateEntry": {
+            "25dc1cd653": "Otwórz plik"
+          },
+          "TabBarQuickCommandsButton": {
+            "be8f0ff166": "Usuń",
+            "8d525e5f15": "Skopiowano"
+          },
+          "tab": {
+            "create": {
+              "menu": {
+                "options": {
+                  "5f17fb9d0c": "Markdown",
+                  "6d8b6b4117": "Nowy plik",
+                  "164c394bab": "Otwórz plik"
+                }
+              }
+            }
+          },
+          "EditorFileTabCloseButton": {
+            "4655cf570e": "Zamknij kartę",
+            "a768f428f1": "Zamknij kartę"
+          }
+        }
+      },
+      "status": {
+        "bar": {
+          "PetStatusSegment": {
+            "2f7bbaa457": "Rozmiar"
+          },
+          "ResourceUsageStatusSegment": {
+            "946d9f94d0": "Anuluj",
+            "1b24a32d3a": "Pamięć",
+            "2aa2de6cb9": "Nazwa",
+            "0f9e50eb07": "Inne",
+            "81cd37af99": "Główny"
+          },
+          "SshStatusSegment": {
+            "2c29e2de68": "Połączenie nie powiodło się",
+            "3d0128b105": "połączono",
+            "fd9a3c600e": "błąd",
+            "runtime_checking": "sprawdzanie",
+            "runtime_online": "połączono"
+          },
+          "StatusBar": {
+            "ff0fbe9311": "Aktywna",
+            "a28a5dd9b1": "błąd",
+            "f077f586db": "Nie pytaj ponownie",
+            "c0e972d726": "Anuluj"
+          },
+          "WorkspaceSpaceCompactPanel": {
+            "2af2174d6d": "Anuluj"
+          },
+          "WorkspaceSpaceManagerPanel": {
+            "33aef3e9cc": "Rozmiar",
+            "d7ac56452e": "Aktywność",
+            "243287ac60": "Nazwa",
+            "e4a12c455b": "Wyczyść",
+            "d3f9c69ddc": "Powiększenie",
+            "ef890d31b9": "Wszystkie",
+            "8dc9ddac8a": "Anuluj"
+          },
+          "tooltip": {
+            "cursor": {
+              "plan": "Plan"
+            }
+          },
+          "UsagePercentageDisplayChangeNotice": {
+            "openSettings": "Otwórz ustawienia"
+          },
+          "CaffeinateStatusSegment": {
+            "active": "Aktywna"
+          }
+        }
+      },
+      "stats": {
+        "ShareUsageButton": {
+          "bd82c76a70": "Skopiowano"
+        },
+        "StatsPane": {
+          "b2cf4310ce": "Przegląd",
+          "eee19cfade": "Przegląd"
+        },
+        "UsageOverviewPane": {
+          "22ed1b7669": "Sesje",
+          "33f7b043d2": "Dostawcy"
+        },
+        "usage": {
+          "overview": {
+            "sections": {
+              "f6df0d7d6d": "Więcej",
+              "statusOff": "Wył."
+            }
+          }
+        }
+      },
+      "sparse": {
+        "SparseCheckoutPresetSelect": {
+          "c7f9b3f0c1": "Wył.",
+          "8b12c0850a": "Zapisz",
+          "de8fce5854": "Anuluj",
+          "b3a500c623": "Nazwa",
+          "bd6cec2056": "Nowy"
+        }
+      },
+      "skills": {
+        "SkillsPage": {
+          "571c5818c1": "Katalog domowy",
+          "7e828fb2c6": "Wstecz",
+          "0c74e7ff34": "Zainstalowano",
+          "allSources": "Wszystkie",
+          "retry": "Ponów"
+        },
+        "SkillFreshnessUpdateDialog": {
+          "done": "Gotowe",
+          "close": "Zamknij"
+        },
+        "SkillFreshnessStatusPill": {
+          "upToDate": "Aktualna wersja",
+          "installed": "Zainstalowano",
+          "checking": "Sprawdzanie..."
+        },
+        "SkillShareDialog": {
+          "30985d4fc0": "Anuluj",
+          "3af85f6add": "Gotowe"
+        },
+        "SkillInstallDialog": {
+          "d198ec91e5": "Zamknij"
+        },
+        "SkillInstallManagementDialog": {
+          "8095927ff3": "Zamknij",
+          "e91af0079f": "Usuń"
+        },
+        "SkillInstallReviewContent": {
+          "fab8fce842": "Pliki"
+        },
+        "SkillInstallTargetFields": {
+          "7a366323e7": "FOLDER"
+        },
+        "SkillShareReviewContent": {
+          "3121f44358": "Pliki"
+        },
+        "SkillBundleInstallFlow": {
+          "01c5a13e01": "Zamknij"
+        },
+        "SkillBundleInstallOutcome": {
+          "01c5a12e01": "Zainstalowano"
+        },
+        "SkillBundleInstallReview": {
+          "01c5a11e0d": "Zaznacz wszystkie"
+        },
+        "SkillRow": {
+          "copyPath": "Kopiuj ścieżkę",
+          "detailPath": "Ścieżka",
+          "detailSource": "Źródło"
+        },
+        "SkillSelectionBar": {
+          "clear": "Wyczyść"
+        },
+        "sourceKind": {
+          "home": "Katalog domowy"
+        },
+        "install": {
+          "rowUpdate": "Aktualizuj",
+          "rowNew": "Nowy",
+          "selectAll": "Zaznacz wszystkie"
+        },
+        "SkillsSelectionHeader": {
+          "clear": "Wyczyść"
+        },
+        "SkillDetailDialog": {
+          "copy": "Kopiuj"
+        },
+        "SkillSharedLinkRow": {
+          "confirmDelete": "Potwierdź usunięcie"
+        },
+        "managedInstall": {
+          "cancel": "Anuluj",
+          "remove": "Usuń"
+        },
+        "SkillDelete": {
+          "statusDeleted": "Usunięty"
+        },
+        "skillPlanOpCopy": {
+          "install": "Zainstaluj",
+          "installed": "Zainstalowano",
+          "link": "Link",
+          "linked": "Powiązana",
+          "replace": "Zamień",
+          "update": "Aktualizuj",
+          "write": "Zainstaluj"
+        }
+      },
+      "sidebar": {
+        "local": {
+          "base": {
+            "ref": {
+              "suggestion": {
+                "toast": {
+                  "commit": "Commituj"
+                }
+              }
+            }
+          }
+        },
+        "AddProjectFromFolderDialog": {
+          "7d1f51678c": "Dodaj projekt",
+          "7726a16374": "Anuluj"
+        },
+        "AddRepoCreateStep": {
+          "a8149a3a5a": "Nazwa"
+        },
+        "AddRepoHostSelector": {
+          "local": "Lokalny"
+        },
+        "AddRepoNestedImportStep": {
+          "220dd32d83": "Skanowanie..."
+        },
+        "AddRepoStepIndicator": {
+          "3bb655c117": "Wstecz"
+        },
+        "AddRepoSteps": {
+          "569326d9cc": "Wybierz folder",
+          "3e64e8a70d": "Połączenie nie powiodło się"
+        },
+        "AutoRenameFailedDialog": {
+          "aed1623b1e": "Zamknij",
+          "a23b22d16f": "Skopiowano"
+        },
+        "DeleteWorktreeDialog": {
+          "91492c9ad6": "Usuń",
+          "5cc1a6701c": "Otwórz ustawienia"
+        },
+        "DeleteWorktreeLineageNotice": {
+          "ad407c2d55": "Więcej"
+        },
+        "DeleteWorktreeSkipConfirmOption": {
+          "29aefb7e52": "Nie pytaj ponownie"
+        },
+        "NonGitFolderDialog": {
+          "05b33a17a9": "Anuluj"
+        },
+        "PendingWorktreeRow": {
+          "188f6922a0": "Anuluj"
+        },
+        "ProjectGroupDeleteDialog": {
+          "ca65b78f78": "Anuluj",
+          "69f5cb97d0": "Usuń",
+          "ad407c2d55": "Więcej"
+        },
+        "ProjectGroupNameDialog": {
+          "d99a034073": "Anuluj",
+          "4a64e78822": "Zapisywanie..."
+        },
+        "RemoteFileBrowser": {
+          "f8b1deb1a4": "Anuluj"
+        },
+        "SleepTwinWorkspaceDialog": {
+          "cancel": "Anuluj"
+        },
+        "RemoveFolderDialog": {
+          "4dc5b5065b": "Usuń",
+          "d36883e046": "Anuluj"
+        },
+        "SetupScriptPromptCardViews": {
+          "31b8b01a45": "Ustawienia",
+          "4a98f907ae": "Ponów",
+          "ca4efcbc25": "Zapisz"
+        },
+        "SidebarFeedbackDialog": {
+          "8bf619e4cf": "Anuluj",
+          "f2e42e1307": "Wyślij"
+        },
+        "SidebarFilter": {
+          "e3b3898218": "Dodaj projekt",
+          "779b7ba05d": "Wyczyść",
+          "139877b384": "Zaznacz wszystkie",
+          "5f7085a077": "Projekty"
+        },
+        "SidebarHeader": {
+          "projects": "Projekty",
+          "addProject": "Dodaj projekt"
+        },
+        "SidebarNav": {
+          "80611a8b10": "Szukaj",
+          "c86d83b5c3": "Nowy"
+        },
+        "SidebarRepositoryFilterSection": {
+          "d3a9c4cea1": "Wyczyść",
+          "7679f0c268": "Projekty"
+        },
+        "SidebarSettingsHelpMenu": {
+          "a428c25998": "Ustawienia",
+          "d396773ef0": "sprawdzanie"
+        },
+        "SidebarToolbar": {
+          "abc62b6328": "Dodaj projekt"
+        },
+        "SidebarWorkspaceOptionsMenu": {
+          "3728165cdd": "Nazwa",
+          "26c71e536c": "Notatki",
+          "c2c7a45cda": "Brak",
+          "8d62c68b35": "Notatki"
+        },
+        "WorkspaceKanbanCard": {
+          "cefae8983e": "Przypięto"
+        },
+        "WorkspaceKanbanDrawerHeader": {
+          "f369f5c5a3": "Zamknij"
+        },
+        "WorkspaceKanbanPinDropTarget": {
+          "8fae2d0862": "Przypięto"
+        },
+        "WorkspaceStatusAppearancePopover": {
+          "74b1413279": "Wygląd"
+        },
+        "WorktreeCard": {
+          "93aebe4529": "FOLDER"
+        },
+        "WorktreeCardMeta": {
+          "93cbea12c2": "Notatki"
+        },
+        "WorktreeContextMenu": {
+          "439fa94d53": "Aktualizuj",
+          "d35dfeae58": "Usuń z grupy",
+          "3350101edb": "Kopiuj ścieżkę",
+          "f4475537d8": "Usuń",
+          "3baa7d6507": "Przypnij",
+          "250de158fd": "Usuń przestrzeń"
+        },
+        "WorktreeList": {
+          "64e55f7f01": "Usuń z grupy",
+          "45fbfe0335": "Zmień nazwę"
+        },
+        "WorktreeMetaDialog": {
+          "3db0a2a593": "Anuluj",
+          "2174f17011": "Zapisz",
+          "61d6f612cf": "Zapisywanie..."
+        },
+        "WorktreeTitleInlineRename": {
+          "bff3bdd00c": "Zmień nazwę przestrzeni"
+        },
+        "workspace": {
+          "status": {
+            "6b8285b8dd": "Gotowe"
+          }
+        },
+        "worktree": {
+          "list": {
+            "groups": {
+              "0ed04075b8": "Wszystkie",
+              "4aeefc5996": "Przypięto",
+              "5076efc3d2": "Gotowe"
+            }
+          }
+        },
+        "DeleteWorktreeDialogFooter": {
+          "c0e972d726": "Anuluj",
+          "cf95e3b5bb": "Zamknij"
+        },
+        "HostRemoveDialog": {
+          "6f7a8b9c0d": "Anuluj",
+          "7a8b9c0d1e": "Otwórz ustawienia"
+        },
+        "HostRenameDialog": {
+          "5e6f7a8b9c": "Anuluj",
+          "6f7a8b9c0d": "Zapisz"
+        },
+        "HostSectionHeaderMenu": {
+          "2c29e2de68": "Połączenie nie powiodło się"
+        },
+        "LinearAgentSkillSetupPrompt": {
+          "done": "Gotowe"
+        },
+        "WorktreeParentPickerPopover": {
+          "current": "Aktywna"
+        },
+        "SuppressExternalWorktreeInboxDialog": {
+          "5d1c9f0a82": "Anuluj"
+        },
+        "AddRemoteHostDialog": {
+          "cancel": "Anuluj",
+          "saving": "Zapisywanie...",
+          "save": "Zapisz",
+          "sshConfigPickerBack": "Wstecz"
+        },
+        "ForgetSshWorkspaceDialog": {
+          "cancel": "Anuluj"
+        },
+        "PreservedBranchBatchReviewDialog": {
+          "38c947f7c5": "Zaznacz wszystkie",
+          "285e1e4882": "Anuluj"
+        },
+        "WorktreeVisibilitySourceList": {
+          "add": "Dodaj"
+        },
+        "AddWslHostFormPanel": {
+          "stopped": "Zatrzymano"
+        }
+      },
+      "shared": {
+        "useDaemonActions": {
+          "01af244097": "Anuluj"
+        },
+        "MacFolderAccessFixDialog": {
+          "done": "Gotowe",
+          "cancel": "Anuluj"
+        }
+      },
+      "settings": {
+        "AccountsPane": {
+          "dbb9626ed1": "Anuluj",
+          "b398b834c9": "Wyczyść",
+          "db209ee572": "Usuń",
+          "e74831fb6b": "Aktywna",
+          "73ea15f24b": "Zapisano",
+          "f38b9cc4bd": "Zamień",
+          "590a3130f9": "Zapisz",
+          "codexLoginLinkCopied": "Skopiowano",
+          "codexLoginLinkOpen": "Otwórz"
+        },
+        "AgentSkillSetupPanel": {
+          "9fcebceb2a": "Zainstalowano",
+          "68a468752e": "Sprawdzanie...",
+          "installLabel": "Zainstaluj",
+          "updateLabel": "Aktualizuj",
+          "retrySetup": "Ponów"
+        },
+        "AgentsPane": {
+          "retryDetection": "Ponów",
+          "02e0143be5": "Zainstalowano",
+          "92033495ff": "Auto",
+          "f95b5c79b8": "Zainstaluj",
+          "fe4d630c94": "Dokumenty",
+          "5200dac9da": "Resetuj"
+        },
+        "AppearancePane": {
+          "932ff1fbff": "Motyw"
+        },
+        "AutoRenameBranchFromWorkSetting": {
+          "ec3e0c388e": "Zapisz",
+          "cfd82406dd": "Zapisywanie...",
+          "40e7be7850": "Zapisano"
+        },
+        "AutoRenameBranchPromptEditor": {
+          "5968112152": "Zapisz",
+          "54ac229ad4": "Zapisywanie...",
+          "af0831a590": "Zapisano"
+        },
+        "BaseRefPicker": {
+          "d166ff883d": "Aktywna"
+        },
+        "BrowserHomePageSetting": {
+          "d4ddcd0056": "Zapisz"
+        },
+        "BrowserPane": {
+          "81ff774667": "Anuluj"
+        },
+        "BrowserProfileRow": {
+          "c29648fe5b": "Aktywna"
+        },
+        "BrowserUseExamples": {
+          "1199258ace": "Kopiuj"
+        },
+        "CliSection": {
+          "8671e406f0": "Anuluj",
+          "9a5f8a4568": "Usuń",
+          "4c7e3e4c5f": "Zainstaluj",
+          "8d96213669": "Usuń",
+          "5d432fe44d": "Zainstalowano"
+        },
+        "CommitMessageAiPane": {
+          "ca433708cb": "Commituj",
+          "0b7eafe55f": "AI",
+          "2c5436c018": "Otwórz",
+          "6c84ba6de3": "Szablon",
+          "25350d670f": "Własny"
+        },
+        "ComputerUsePane": {
+          "45f8e22c2e": "Otwórz"
+        },
+        "DeveloperPermissionsPane": {
+          "actionOpenSettings": "Otwórz ustawienia",
+          "statusDenied": "Odrzucono"
+        },
+        "ExperimentalPane": {
+          "nativeChat": {
+            "shellEnvNameAdd": "Dodaj"
+          }
+        },
+        "GeneralEditorSettingsSection": {
+          "5a1ea6eaa2": "Ukryty",
+          "bf16ef0af2": "Wył.",
+          "3f6892f307": "Wł."
+        },
+        "GeneralSupportSection": {
+          "c9f96d4234": "błąd",
+          "9d181300e3": "Ulubione",
+          "5c49f02662": "Ukryty"
+        },
+        "GeneralUpdateSettingsSection": {
+          "6405510b92": "błąd",
+          "3394d1f663": "sprawdzanie"
+        },
+        "GhosttyImportModal": {
+          "f96688b6bc": "Anuluj",
+          "b7ddae600c": "Gotowe"
+        },
+        "WarpThemeImportModal": {
+          "choose_file": "Wybierz plik",
+          "choose_folder": "Wybierz folder",
+          "select_all": "Zaznacz wszystkie",
+          "cancel": "Anuluj"
+        },
+        "useWarpThemeImport": {
+          "unknown_error": "Nieznany błąd"
+        },
+        "GitPane": {
+          "813e15b346": "Własny",
+          "3d172725cc": "Brak",
+          "1f32ba27a6": "Własny"
+        },
+        "IntegrationsPane": {
+          "6432f6522e": "połączono",
+          "62b20292de": "błąd",
+          "3614887c40": "sprawdzanie",
+          "295154e54e": "połączono"
+        },
+        "KagiSessionLinkForm": {
+          "92f0b4e472": "Wyczyść",
+          "d5c8b94c5b": "Zapisz"
+        },
+        "KeybindingsFileActions": {
+          "abc49853fb": "Wczytaj z dysku"
+        },
+        "ManageSessionKillDialog": {
+          "6bf4627168": "Anuluj"
+        },
+        "ManageSessionsSection": {
+          "a795a9552a": "Sesje"
+        },
+        "McpConfigFileRow": {
+          "e720c139cd": "Otwórz"
+        },
+        "MobileEmulatorExamples": {
+          "edf13dd03b": "Kopiuj"
+        },
+        "MobileEmulatorSettingsPane": {
+          "b5e2d93e01": "Sprawdzanie..."
+        },
+        "MobileNetworkInterfaceSection": {
+          "51d29927eb": "Zainstaluj"
+        },
+        "NotificationsPane": {
+          "145227ca2b": "Otwórz ustawienia"
+        },
+        "OpenAiTranscriptionSettingsRow": {
+          "3b0ab3fc0b": "połączono"
+        },
+        "OpenInMenuSetting": {
+          "c1d817e027": "Dodany"
+        },
+        "OrchestrationPane": {
+          "chatErrorEscalationKeywordError": "błąd",
+          "chatErrorEscalationKeywordChat": "Czat"
+        },
+        "PrivacyDiagnosticBundleControls": {
+          "2ae9a6b63e": "Gotowe"
+        },
+        "PrivacyPane": {
+          "77410e0566": "Polityka prywatności"
+        },
+        "QuickCommandsPane": {
+          "ec1ed99e70": "Usuń",
+          "d1d0976320": "Brak",
+          "7ecfee5b8e": "Ponów",
+          "8d525e5f15": "Skopiowano"
+        },
+        "RepositoryHooksSection": {
+          "2d03a514db": "Lokalny",
+          "b113344b6a": "Edytuj",
+          "673a7fd10e": "Sprawdzanie...",
+          "95a0411b3e": "Szablon",
+          "2b6356e744": "Zapisano",
+          "81057d5f71": "Zapisywanie...",
+          "da37d6f10e": "Kopiuj",
+          "3149964b66": "Skopiowano"
+        },
+        "RepositoryIconPicker": {
+          "c490787d24": "Emoji",
+          "549d126081": "Resetuj"
+        },
+        "RepositoryPane": {
+          "currentSetup": "Aktywna",
+          "hostSetupStateError": "błąd",
+          "openSetup": "Otwórz",
+          "removeSetup": "Usuń",
+          "setupKindFolder": "FOLDER",
+          "creatingPendingSetup": "Tworzenie...",
+          "closeHostSetup": "Zamknij"
+        },
+        "RepositorySourceControlAiEnablement": {
+          "84233d1bb3": "Wył.",
+          "bea897eec2": "Wł."
+        },
+        "RepositorySourceControlAiHostedReviewDefaults": {
+          "053ccfbf52": "Wył.",
+          "777443bf89": "Wł."
+        },
+        "RepositorySourceControlAiSection": {
+          "152268c295": "Zapisz",
+          "57e6e9d4b1": "Zapisywanie...",
+          "ccb07dd027": "Zapisano"
+        },
+        "RuntimeAccessGrantList": {
+          "revoke": "Cofnij"
+        },
+        "RuntimeEnvironmentsPane": {
+          "af53761f31": "Anuluj",
+          "d2e00809e4": "Przełącz",
+          "d25f0688b1": "Usuń",
+          "serverConnected": "połączono",
+          "updateServer": "Aktualizuj"
+        },
+        "RuntimePairingUrlGenerator": {
+          "custom-cancel": "Anuluj"
+        },
+        "Settings": {
+          "23bf7a1ad4": "Skróty",
+          "2b4474780a": "Wygląd",
+          "c9ca101a3b": "Integracje"
+        },
+        "SettingsFormControls": {
+          "74bcecd5ec": "Wyczyść",
+          "builtin_themes": "Wbudowany",
+          "9119fb2268": "Aktywna"
+        },
+        "SettingsSidebar": {
+          "5c9669ff9c": "Projekty"
+        },
+        "SourceControlAiActionRecipeDefaults": {
+          "a9359c8aa9": "Nieznany błąd",
+          "d18d665e12": "Zapisz",
+          "4f549a5fa8": "Zapisywanie...",
+          "9d3cc627f8": "Zapisano",
+          "e5b24893ba": "Commituj",
+          "cb67b938c5": "Popraw",
+          "2037c78a6f": "Szablon"
+        },
+        "SparsePresetSettingsSection": {
+          "6fa754d20f": "Usuń",
+          "2d7d45e991": "Anuluj",
+          "a6fcdd9e3c": "Nazwa",
+          "68bbcd864a": "Nowy"
+        },
+        "SshDestructiveActionDialog": {
+          "895b216267": "Anuluj"
+        },
+        "SshPane": {
+          "e95d5ae10e": "Połączenie nie powiodło się"
+        },
+        "SshPassphraseDialog": {
+          "d5a234456f": "Anuluj",
+          "c624f64b86": "Kontynuuj"
+        },
+        "SshTargetCard": {
+          "18968ede9e": "błąd",
+          "47e94bd6ba": "połączono"
+        },
+        "SshTargetForm": {
+          "fea9cb402e": "Anuluj"
+        },
+        "TasksPane": {
+          "openIntegrations": "Integracje",
+          "integrationsLink": "Integracje"
+        },
+        "TerminalAppearanceSection": {
+          "70beb1bbc7": "Podgląd",
+          "870377082f": "Wył.",
+          "84bd22f2cd": "Wł.",
+          "bc9ff84d61": "Auto",
+          "c084eb7d4c": "Interlinia",
+          "e90afcc44f": "Wył.",
+          "16c471ee03": "Wł."
+        },
+        "TerminalFontSizeSetting": {
+          "a4a352b1e9": "Rozmiar czcionki"
+        },
+        "TerminalPane": {
+          "3fe1c5bfe0": "Wył.",
+          "43c2ff7b0e": "Auto",
+          "907b0b9d3e": "Własny",
+          "9c0b1c1792": "Wł.",
+          "5936387ddd": "Auto",
+          "adbafefe56": "Własny",
+          "29154326bb": "Wł.",
+          "ab20575a8a": "Wył.",
+          "scrollSpeed": {
+            "reset": "Resetuj"
+          }
+        },
+        "UIZoomControl": {
+          "c2c64b24d0": "Resetuj"
+        },
+        "WorktreeSymlinksSection": {
+          "ea06227efa": "Dodany",
+          "b2429aeb31": "Dodaj"
+        },
+        "WslCliRegistration": {
+          "c6f6f89d7c": "Anuluj",
+          "f951f85196": "Usuń",
+          "41a1480d3e": "Zainstaluj",
+          "7c3bb36706": "Usuń"
+        },
+        "accounts": {
+          "search": {
+            "8b06729e0f": "Aktywna",
+            "5b3f18ef4a": "Przełącz",
+            "488a7e9206": "Linux",
+            "bdbd1e668e": "Windows"
+          }
+        },
+        "agents": {
+          "search": {
+            "2814401339": "Zainstalowano",
+            "719f53350c": "Ścieżka",
+            "f622b8eb2a": "Linux",
+            "77c02fa3c3": "Windows",
+            "a6d594c17d": "Zainstaluj",
+            "agent-trust-folder": "FOLDER",
+            "8599603496": "Gotowe",
+            "ea71995548": "Usuń",
+            "5963143e00": "Ustawienia",
+            "966890236d": "Nazwa",
+            "52115d0d7c": "Auto",
+            "5784ae8c43": "Zmień nazwę"
+          }
+        },
+        "appearance": {
+          "search": {
+            "51f957ce39": "Nazwa",
+            "24094af355": "Czcionka",
+            "3ae5de6101": "Powiększenie",
+            "71e06350b4": "Motyw",
+            "4355f18ac6": "Pamięć",
+            "showPinnedWorktreesInGroups": {
+              "pinned": "Przypięto",
+              "all": "Wszystkie",
+              "duplicate": "Duplikuj"
+            },
+            "tray": {
+              "close": "Zamknij"
+            }
+          }
+        },
+        "auto": {
+          "rename": {
+            "branch": {
+              "search": {
+                "7adefcdd94": "Szablon",
+                "7803423877": "Auto",
+                "55a1860e47": "Zmień nazwę"
+              }
+            }
+          }
+        },
+        "browser": {
+          "search": {
+            "68d1db8929": "Markdown",
+            "linkRoutingBackground": {
+              "focus": "Skupienie"
+            },
+            "terminalLinkActions": {
+              "chat": "Czat"
+            },
+            "44d14df30d": "Podgląd",
+            "4a98ed195f": "Powiększenie",
+            "16bd69cd82": "Szukaj",
+            "291f480a5e": "Katalog domowy"
+          },
+          "use": {
+            "search": {
+              "e5a784bc54": "Zainstaluj"
+            }
+          }
+        },
+        "commit": {
+          "message": {
+            "ai": {
+              "search": {
+                "181cdb0637": "Otwórz",
+                "b7d50da4d8": "Szablon",
+                "127d512e75": "Commituj",
+                "37c65bbb44": "Popraw",
+                "c33cb1b982": "AI"
+              }
+            }
+          }
+        },
+        "developer": {
+          "permissions": {
+            "search": {
+              "6db4fca386": "macOS"
+            }
+          }
+        },
+        "experimental": {
+          "search": {
+            "3028f0bd3a": "Link",
+            "268e99d957": "Wyróżnienie",
+            "newWorktreeCardStyle": {
+              "card": "Karta"
+            },
+            "244a0ecd3d": "Aktywność",
+            "nativeChat": {
+              "chat": "Czat",
+              "queue": "Kolejkuj"
+            },
+            "agentDashboard": {
+              "kanban": "Kanban"
+            }
+          }
+        },
+        "floating": {
+          "workspace": {
+            "search": {
+              "52db6e3baf": "Notatki",
+              "884e5e6132": "Markdown"
+            }
+          }
+        },
+        "general": {
+          "search": {
+            "f89a94773c": "Aktualizuj",
+            "fb4f338a3d": "Ścieżka",
+            "fb84767421": "Przełącz",
+            "preview": "Podgląd",
+            "replace": "Zamień",
+            "italic": "Kursywa",
+            "1ff67ba40c": "Notatki",
+            "d05f629d2c": "Markdown",
+            "3ca5ab78a5": "Kod",
+            "e3919429c0": "Przegląd",
+            "2f42852568": "Drzewo",
+            "3b5733573e": "Różnice",
+            "be24c7cd67": "Podzielony",
+            "4469b6fa4e": "Zapisz",
+            "c9d9636f24": "Finder",
+            "84c67d0108": "Usuń",
+            "7887a2c262": "FOLDER",
+            "collapseUnchangedKw": "Zwiń",
+            "editorFontKw": "Czcionka",
+            "867dddea41": "Przypięto",
+            "5250cf0e48": "Przypnij",
+            "afa37a34e1": "Zamknij",
+            "close": "Zamknij"
+          }
+        },
+        "git": {
+          "search": {
+            "0849b571fe": "Aktualna wersja",
+            "e3e9adde59": "Główny",
+            "769ddd7f81": "Własny",
+            "defaultBranch": "Domyślna gałąź"
+          }
+        },
+        "input": {
+          "search": {
+            "886597d6b3": "macOS",
+            "26c83b06c5": "Linux",
+            "e5cd0e7a46": "Zaznaczenie"
+          }
+        },
+        "jira": {
+          "integration": {
+            "card": {
+              "eaffa454e9": "Aktualizuj",
+              "5936977fcd": "Anuluj",
+              "9bb34706ca": "połączono",
+              "5fb1562315": "błąd",
+              "d5c5b47bb9": "Aktualizuj",
+              "statusConnected": "połączono",
+              "statusNotConnected": "niepołączono"
+            }
+          }
+        },
+        "machine": {
+          "name": {
+            "search": {
+              "rename": "Zmień nazwę",
+              "name": "Nazwa"
+            }
+          }
+        },
+        "mobile": {
+          "pane": {
+            "search": {
+              "dbccde3a60": "Zamknij",
+              "356c31d6dc": "Szerokość",
+              "7d01f93ec0": "połączono",
+              "905c65a308": "Cofnij",
+              "4a0c826f3d": "Kod"
+            }
+          },
+          "settings": {
+            "search": {
+              "59b1d75fd1": "Kod"
+            }
+          }
+        },
+        "notifications": {
+          "search": {
+            "5f7472d3fb": "Gotowe"
+          }
+        },
+        "privacy": {
+          "search": {
+            "3922051573": "Dane"
+          }
+        },
+        "quick": {
+          "commands": {
+            "search": {
+              "cfffa6cdb6": "Polecenia"
+            }
+          }
+        },
+        "repository": {
+          "search": {
+            "f1e1bfa89f": "Źródło",
+            "0432d2fb7c": "Lokalny",
+            "4c17787d7b": "ARCHIWUM",
+            "5590388dfa": "Konfiguruj",
+            "3c180a251c": "Link",
+            "copy": "Kopiuj",
+            "130d76dc16": "Zmień nazwę",
+            "cfad7ce5f3": "AI",
+            "3067595d82": "Usuń",
+            "1e73e840ff": "Emoji",
+            "fork": "Rozgałęź",
+            "defaultBranch": "Domyślna gałąź"
+          }
+        },
+        "ssh": {
+          "search": {
+            "00d1fda01a": "Nowy",
+            "f7b6383aec": "Dodaj"
+          }
+        },
+        "tasks": {
+          "search": {
+            "3d81c26d78": "Źródło",
+            "setup": "Konfiguruj"
+          }
+        },
+        "terminal": {
+          "clipboard": {
+            "search": {
+              "a38508c419": "Kopiuj",
+              "cf83ac3dbd": "Linux",
+              "664789b73a": "Auto",
+              "c38c18be15": "Zaznaczenie"
+            }
+          },
+          "search": {
+            "fd6c24313d": "Nowy",
+            "de7bc1d5f5": "Podzielony",
+            "4529806908": "Konfiguruj",
+            "0ce176909a": "Motyw",
+            "3982d88725": "Historia",
+            "456da64d4d": "Wyczyść",
+            "a8d2784214": "Zarządzaj",
+            "d802a578bf": "Sesje",
+            "10f9fb6fea": "Ustawienia",
+            "yaml_import": {
+              "keyword_custom": "Własny"
+            },
+            "d8d6f7a3c5": "macOS",
+            "affb14efd4": "Zaznaczenie",
+            "56fff3d113": "Pamięć",
+            "7718d70356": "Podgląd",
+            "f036794286": "Aktywna",
+            "f5d1e3d472": "Skupienie",
+            "1abcf4d7de": "Linux",
+            "7341e3d00e": "Interlinia",
+            "0f2fb0cb74": "Interlinia",
+            "b0bb76ae6b": "Czcionka",
+            "5930244899": "Rozmiar czcionki",
+            "close_terminal": "Zamknij",
+            "stop": "Zatrzymaj"
+          },
+          "windows": {
+            "search": {
+              "28ff08ed35": "Windows",
+              "02c772582a": "Linux"
+            }
+          }
+        },
+        "WorkspaceDirectorySetting": {
+          "5e6f7a8b9c": "Resetuj"
+        },
+        "cli": {
+          "source": {
+            "control": {
+              "integration": {
+                "cards": {
+                  "statusConnected": "połączono"
+                }
+              }
+            }
+          }
+        },
+        "task": {
+          "tracker": {
+            "integration": {
+              "cards": {
+                "statusConnected": "połączono",
+                "statusNotConnected": "niepołączono"
+              }
+            }
+          }
+        },
+        "token": {
+          "source": {
+            "control": {
+              "integration": {
+                "cards": {
+                  "statusConnected": "połączono"
+                }
+              }
+            }
+          }
+        },
+        "RepositoryForkSyncSection": {
+          "defaultBranch": "Domyślna gałąź",
+          "off": "Wył."
+        },
+        "DefaultWindowsProjectRuntimeSetting": {
+          "windows": "Windows"
+        },
+        "ProjectWindowsRuntimeSetting": {
+          "windows": "Windows",
+          "cancel": "Anuluj"
+        },
+        "ShortcutCommandBlock": {
+          "287e07ddde": "Zmodyfikowany"
+        },
+        "MobileEmulatorSdkStatus": {
+          "8c52684db8": "Wyczyść"
+        },
+        "EphemeralVmsPane": {
+          "copy": "Kopiuj",
+          "copied": "Skopiowano"
+        },
+        "linear": {
+          "agent": {
+            "skill": {
+              "install": {
+                "cta": {
+                  "checking": "Sprawdzanie...",
+                  "installed": "Zainstalowano"
+                }
+              }
+            }
+          }
+        },
+        "SkillUsageExampleDialog": {
+          "done": "Gotowe"
+        },
+        "LinearAgentSkillPane": {
+          "manageConnectionLink": "Integracje"
+        },
+        "RemoteServerUpdateDialog": {
+          "retry": "Ponów"
+        },
+        "RemoteServerUpdateStatus": {
+          "current": "Aktualna wersja"
+        },
+        "PluginConsentProvenance": {
+          "community": "Społeczność",
+          "source": "Źródło",
+          "sourceLabel": "Źródło"
+        },
+        "PluginDevelopmentSection": {
+          "remove": "Usuń"
+        },
+        "PluginInstallDialog": {
+          "cancel": "Anuluj",
+          "install": "Zainstaluj"
+        },
+        "PluginMarketplaceListingRow": {
+          "installed": "Zainstalowano",
+          "install": "Zainstaluj"
+        },
+        "PluginMarketplacePreviewDialog": {
+          "close": "Zamknij",
+          "cancel": "Anuluj"
+        },
+        "PluginMarketplaceSourceDialog": {
+          "done": "Gotowe"
+        },
+        "PluginRemoveDialog": {
+          "cancel": "Anuluj"
+        },
+        "PluginRollbackDialog": {
+          "cancel": "Anuluj"
+        },
+        "PluginSettingsRow": {
+          "error": "błąd",
+          "remove": "Usuń"
+        },
+        "RuntimeHostAccessForm": {
+          "cancel": "Anuluj",
+          "nameLabel": "Nazwa"
+        },
+        "artifacts": {
+          "connected": "połączono",
+          "keywordHtml": "HTML",
+          "keywordMarkdown": "Markdown"
+        },
+        "sleepbananaAccount": {
+          "connected": "połączono"
+        },
+        "AgentAwakeSetting": {
+          "on": "Wł.",
+          "off": "Wył."
+        },
+        "RepositoryGitHubAccountSection": {
+          "retry": "Ponów"
+        },
+        "shareSkills": {
+          "keywordLink": "Link",
+          "keywordRevoke": "Cofnij"
+        },
+        "bitbucket": {
+          "credentials": {
+            "dialog": {
+              "connectFailed": "Połączenie nie powiodło się",
+              "cancel": "Anuluj"
+            }
+          }
+        },
+        "contrast": {
+          "off": "Wył.",
+          "custom": "Własny"
+        },
+        "CursorAccountsSection": {
+          "planTotal": "Plan"
+        },
+        "managedServers": {
+          "row": {
+            "update": "Aktualizuj"
+          },
+          "access": {
+            "retry": "Ponów",
+            "cancelLink": "Anuluj"
+          }
+        },
+        "ZcodePlanAccountsSection": {
+          "saved": "Zapisano",
+          "replace": "Zamień",
+          "save": "Zapisz"
+        },
+        "deltaMove": {
+          "cancel": "Anuluj"
+        },
+        "keepServer": {
+          "cancel": "Anuluj"
+        },
+        "moveAnyway": {
+          "cancel": "Anuluj"
+        },
+        "wslHostsExperimental": {
+          "keywordLinux": "Linux"
+        },
+        "wslHosts": {
+          "remove": "Usuń"
+        },
+        "restartServer": {
+          "cancel": "Anuluj"
+        },
+        "nodeDistMirrorDialog": {
+          "cancel": "Anuluj",
+          "retryFailed": "Połączenie nie powiodło się"
+        },
+        "SshPaneToolbar": {
+          "clear": "Wyczyść",
+          "clearFilter": "Wyczyść filtr"
+        },
+        "serverList": {
+          "cancel": "Anuluj",
+          "capabilities": "Możliwości",
+          "done": "Gotowe",
+          "retry": "Ponów",
+          "editName": "Edytuj",
+          "close": "Zamknij"
+        },
+        "OrchestrationSkillPromptDialog": {
+          "35550f3b3b": "Gotowe"
+        },
+        "recoverServer": {
+          "cancel": "Anuluj",
+          "close": "Zamknij"
+        }
+      },
+      "right": {
+        "sidebar": {
+          "ChecksPanel": {
+            "058039787c": "Anuluj",
+            "2ab7fd4b6d": "Zapisz",
+            "786e3c143f": "Usuń",
+            "review": {
+              "retry": "Ponów"
+            }
+          },
+          "CreatePullRequestDialog": {
+            "2bc1b4345e": "Anuluj",
+            "1cd53359db": "Opis",
+            "694550a610": "Główny"
+          },
+          "FileExplorer": {
+            "6ed5ce817b": "Szukaj"
+          },
+          "FileExplorerBackgroundMenu": {
+            "3b5e2dcb8d": "Nowy folder",
+            "21fe46ed36": "Nowy plik"
+          },
+          "FileExplorerRow": {
+            "addc01145f": "Usuń",
+            "fc747429bf": "Zmień nazwę",
+            "0fec99bfd7": "Duplikuj",
+            "f61af83316": "Nowy folder",
+            "37c875d827": "Nowy plik",
+            "1a3df04ae1": "Otwórz",
+            "2de3b21934": "Markdown",
+            "66a29dde82": "Kopiuj ścieżkę względną",
+            "b5d436aa30": "Kopiuj ścieżkę",
+            "98a79948b3": "Kopiuj",
+            "3161c4e425": "FOLDER",
+            "revealInFinder": "Pokaż w Finderze"
+          },
+          "FileExplorerToolbar": {
+            "693cbeadd0": "Szukaj"
+          },
+          "GitHistoryPanel": {
+            "111e1d0db4": "błąd"
+          },
+          "HostedReviewActions": {
+            "4d5fb5a284": "Zamknij",
+            "b25f63edd7": "Otwórz",
+            "closeDraft": "Zamknij"
+          },
+          "PortsPanel": {
+            "3ea4a02a8f": "Anuluj",
+            "8dfed0a15c": "Nazwa (opcjonalnie)",
+            "e740075063": "Usuń",
+            "b3548e59f4": "Edytuj",
+            "a103dae837": "Dodaj",
+            "9079776663": "Zapisz",
+            "c57eda6822": "Edytuj",
+            "d7c83cfd24": "Zapisywanie...",
+            "0d63d94db3": "Skanowanie...",
+            "7550998473": "Kopiuj"
+          },
+          "SearchHeader": {
+            "464ae3974f": "Rozróżniaj wielkość liter",
+            "693cbeadd0": "Szukaj"
+          },
+          "SearchResultItems": {
+            "3596b9668d": "Kopiuj ścieżkę"
+          },
+          "SourceControl": {
+            "286dbda4d6": "Ponów",
+            "783a808870": "Zamknij",
+            "e64a632456": "Główny",
+            "05bb8f4a48": "Anuluj",
+            "cc474e0b8c": "Notatki",
+            "d54dd48b0b": "Odrzuć zmiany",
+            "2830dd64a2": "Usunięty",
+            "d62bc0c7d8": "Nieśledzony",
+            "c105a61960": "Scal",
+            "c56ba7fa06": "Różnice",
+            "e59bca888a": "Markdown",
+            "424ee0e5bf": "błąd",
+            "26511c22b4": "Tworzenie...",
+            "383cf92c73": "Drzewo",
+            "48a003c1b1": "Zmiany w poczekalni (Staged)",
+            "d4ef4bafc5": "Zmiany",
+            "d2e9189866": "Wszystkie",
+            "9339382454": "Cofnij wszystko",
+            "24d2598eff": "Dodaj wszystko",
+            "77afaa8152": "Wszystkie",
+            "31f6d46278": "Nieutworzona",
+            "pushRecovery": {
+              "783a808870": "Zamknij"
+            }
+          },
+          "SourceControlAgentActionDialogForm": {
+            "ea4788705e": "Anuluj",
+            "7ec6abbf2a": "Resetuj",
+            "b99c33cec5": "Ustawienia",
+            "3e8f21954f": "błąd"
+          },
+          "checks": {
+            "panel": {
+              "content": {
+                "f6a40263ff": "Zapisz",
+                "b062f55f29": "Anuluj",
+                "6cc6eace26": "Usuń",
+                "03ca88f623": "Edytuj",
+                "1abb17aac9": "Więcej",
+                "checksUnresolvedChip": "Nieutworzona",
+                "dcb3c546fe": "Ponów",
+                "b45db92d0e": "Popraw",
+                "6fa7f8723f": "Commituj",
+                "1e53e45072": "Skopiowano",
+                "9fecebb29d": "Dodaj",
+                "7c1f0a2b11": "Otwórz",
+                "a7f0c7e8d1": "Kolejkuj"
+              },
+              "review": {
+                "skipped": {
+                  "not_git": {
+                    "title": "To nie jest repozytorium Git"
+                  }
+                }
+              }
+            }
+          },
+          "gitlab": {
+            "mr": {
+              "merge": {
+                "state": {
+                  "195917574e": "sprawdzanie"
+                }
+              }
+            }
+          },
+          "index": {
+            "06219e4cb1": "Szukaj",
+            "ef182dcb12": "Szukaj"
+          },
+          "right": {
+            "panel": {
+              "comment": {
+                "composer": {
+                  "9bca633dee": "Anuluj",
+                  "cf5a7aba6f": "Lista",
+                  "f49e0a21e0": "Kod",
+                  "542bf6a7e2": "Kursywa",
+                  "256300f8ea": "Pogrubienie"
+                }
+              }
+            }
+          },
+          "source": {
+            "control": {
+              "discard": {
+                "dialog": {
+                  "3bc61dc989": "Anuluj",
+                  "42f89dd030": "Pliki"
+                }
+              },
+              "dropdown": {
+                "items": {
+                  "226b85a3a7": "Pobierz (Fetch)",
+                  "2b8e6595fd": "Commituj"
+                }
+              },
+              "primary": {
+                "action": {
+                  "ed93b4f14f": "Commituj",
+                  "95550cff15": "Wypchnij (Push)",
+                  "d64292a938": "Pobierz (Pull)",
+                  "18a0fca877": "Dodaj wszystko"
+                }
+              },
+              "branch": {
+                "line": {
+                  "total": {
+                    "chip": {
+                      "c8d5b21e07": "Źródło"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "useFileDeletion": {
+            "92276aceb7": "Usuń"
+          },
+          "AiVaultPanelControls": {
+            "allScope": "Wszystkie",
+            "selectAllAgents": "Zaznacz wszystkie",
+            "clearAgents": "Wyczyść",
+            "group": "Grupa",
+            "folder": "FOLDER",
+            "resetView": "Resetuj widok"
+          },
+          "AiVaultSessionDetails": {
+            "user": "Użytkownik",
+            "copied": "Skopiowano",
+            "copy": "Kopiuj",
+            "folder": "FOLDER"
+          },
+          "AiVaultSessionRow": {
+            "delete": "Usuń"
+          },
+          "AiVaultSessionDeleteDialog": {
+            "confirm": "Usuń"
+          },
+          "pull": {
+            "policy": {
+              "notice": {
+                "merge": "Scal",
+                "copied": "Skopiowano"
+              }
+            }
+          },
+          "AiVaultSessionWorktree": {
+            "activeFolder": "FOLDER"
+          },
+          "activityBar": {
+            "error": "błąd"
+          },
+          "GitHubPRStackMap": {
+            "e6cb964305": "Otwórz"
+          }
+        }
+      },
+      "repo": {
+        "NestedRepoChecklist": {
+          "91b5bcadb6": "Zaznacz wszystkie",
+          "929734aea5": "Odznacz wszystkie"
+        },
+        "RepoCombobox": {
+          "b3e15f4525": "Dodaj projekt"
+        },
+        "repo": {
+          "icon": {
+            "b1b8d99fc4": "AI",
+            "65b437c381": "Kod",
+            "bed2674f9d": "FOLDER"
+          }
+        }
+      },
+      "onboarding": {
+        "IntegrationsStep": {
+          "c91a5782f1": "połączono",
+          "a3bcf13694": "połączono"
+        },
+        "OnboardingFlow": {
+          "a5e5da02f7": "Integracje",
+          "984338477a": "Motyw"
+        },
+        "OnboardingFooter": {
+          "ba58547306": "Wstecz"
+        },
+        "ThemeStep": {
+          "cc1858e19e": "Czcionka",
+          "906c4373fe": "Ustawienia"
+        }
+      },
+      "new": {
+        "workspace": {
+          "SmartWorkspaceNameField": {
+            "2a0d535f69": "Utwórz nową gałąź",
+            "eadf877af5": "Zachowaj",
+            "6859e2896c": "Anuluj",
+            "0c9e668e3a": "Wyczyść",
+            "6f07a18604": "Nazwa",
+            "26824f60dd": "Wszystkie",
+            "622864b52a": "Otwórz",
+            "openSettings": "Ustawienia",
+            "retryJira": "Ponów",
+            "emoji": "Emoji"
+          },
+          "ProjectCombobox": {
+            "addProject": "Dodaj projekt",
+            "listLabel": "Projekty"
+          }
+        }
+      },
+      "mobile": {
+        "MobileHero": {
+          "a8fb43cf1c": "Kontynuuj",
+          "3f90dbd274": "Gotowe",
+          "b622eba64d": "Wstecz",
+          "channel": {
+            "preview": "Podgląd"
+          }
+        },
+        "slides": {
+          "HomeSlide": {
+            "af761a0c0d": "Ustawienia"
+          },
+          "TerminalSlide": {
+            "0bb39f8fe6": "Wyślij",
+            "6d4ebd5833": "Edytuj",
+            "606aa93192": "Pliki",
+            "8fd998acd3": "Wstecz"
+          },
+          "WorktreeListSlide": {
+            "357a519567": "Aktywna",
+            "79a24ff530": "Przypięto",
+            "cefd048225": "Wstecz"
+          }
+        },
+        "CustomNetworkAddressDialog": {
+          "cancel": "Anuluj"
+        },
+        "NetworkInterfacePicker": {
+          "custom-section": "Własny"
+        }
+      },
+      "floating": {
+        "terminal": {
+          "FloatingTerminalOrchestrationDialog": {
+            "630c0ac8c8": "Zainstalowano",
+            "dfd021ce46": "Sprawdzanie..."
+          },
+          "FloatingTerminalWindowControls": {
+            "1e502f1284": "Otwórz"
+          }
+        }
+      },
+      "feature": {
+        "wall": {
+          "AgentCapabilitiesSetupAction": {
+            "b8dc9dd8a2": "Zainstalowano"
+          },
+          "AiCommitPrSettingsCard": {
+            "560d4feb00": "Własny"
+          },
+          "ComputerUseAnimatedVisual": {
+            "3cc2df3671": "Gotowe"
+          },
+          "EditorAnimatedVisual": {
+            "7a763daf2f": "Kursywa",
+            "3fe42a1da0": "Typ",
+            "37fa4948ce": "Lista punktowana",
+            "a26a68d30c": "Nagłówek 2",
+            "722170663a": "Nagłówek 1",
+            "1fb29ad710": "Nagłówki"
+          },
+          "FeatureWallBody": {
+            "25ec5356d6": "Konfiguruj"
+          },
+          "FeatureWallSetupChecklist": {
+            "1a6a7d6c80": "Konfiguruj",
+            "13294d3405": "Gotowe"
+          },
+          "FeatureWallSetupWorkflowActions": {
+            "14327073cc": "Zapisz",
+            "522cce9e33": "Dodaj projekt"
+          },
+          "ReviewNotesAnimatedVisual": {
+            "271ea0cbf3": "Anuluj"
+          },
+          "ReviewPRViewAnimatedVisual": {
+            "fb1a856b6d": "Otwórz",
+            "dfe313e0c9": "Otwórz",
+            "8e715588e4": "Szukaj"
+          },
+          "ReviewShipAnimatedVisual": {
+            "62544e0852": "Anuluj",
+            "3774b80eae": "Opis",
+            "3b9b96d6a6": "Główny",
+            "e725000cd7": "Zmiany",
+            "a079083a6c": "Commituj"
+          },
+          "TasksAnimatedVisual": {
+            "4331c4d0f8": "Otwórz"
+          },
+          "WorkbenchAnimatedVisual": {
+            "99f5224f1e": "Edytuj"
+          },
+          "agent": {
+            "capability": {
+              "setup": {
+                "status": {
+                  "8eccfcb314": "Zainstalowano"
+                }
+              }
+            }
+          },
+          "ReviewAnimatedVisual": {
+            "8ab622e4d6": "Notatki"
+          },
+          "connect": {
+            "integration": {
+              "step": {
+                "5538eb6743": "Gotowe",
+                "open_step": "Otwórz",
+                "close_step": "Zamknij"
+              }
+            }
+          },
+          "FullDiskAccessSetupPrompt": {
+            "bbb3f1e404": "sprawdzanie"
+          }
+        },
+        "tips": {
+          "FeatureTipsModal": {
+            "c169298e4d": "Gotowe"
+          },
+          "CmdJPaletteFeatureTipVisual": {
+            "d20ccf1e61": "Gotowe",
+            "0418f9becc": "Otwórz"
+          }
+        }
+      },
+      "error": {
+        "boundaries": {
+          "RecoverableRenderErrorBoundary": {
+            "55001880db": "Ponów"
+          }
+        }
+      },
+      "emulator": {
+        "pane": {
+          "emulator": {
+            "pane": {
+              "toolbar": {
+                "e7a0d1897e": "Katalog domowy"
+              }
+            }
+          },
+          "MobileEmulatorAgentSetupGuide": {
+            "d10ae98046": "Gotowe"
+          },
+          "MobileEmulatorTabIntroCallout": {
+            "8014b4b80b": "Zachowaj"
+          }
+        }
+      },
+      "editor": {
+        "ChangesModeView": {
+          "54e0035b15": "Wczytywanie diffu..."
+        },
+        "CodeBlockCopyButton": {
+          "28921f5bf9": "Skopiowano"
+        },
+        "CombinedDiffFileTree": {
+          "4cc7b83ffe": "Filtruj pliki...",
+          "481e63ca52": "Pliki"
+        },
+        "CombinedDiffViewer": {
+          "e3b9a6ce02": "Więcej",
+          "84898c548d": "Wyczyść",
+          "88b70d0ef5": "Kopiuj",
+          "0f806a2ab1": "Anuluj",
+          "0fb870a0fe": "Notatki",
+          "19c45cfdc0": "Rozwiń wszystko"
+        },
+        "ConflictReviewFileTree": {
+          "99496bab6e": "Pliki",
+          "69d4e210bb": "Nieutworzona"
+        },
+        "DiffSectionBody": {
+          "cef4cf0ff5": "Ponów",
+          "f5cf81cec2": "Wczytywanie diffu...",
+          "b5675b0694": "Zapisz"
+        },
+        "DiffSectionHeader": {
+          "8915726e93": "Kopiuj ścieżkę"
+        },
+        "EditorContent": {
+          "c88c73a0d3": "Wczytywanie diffu...",
+          "b2735221f5": "Ładowanie...",
+          "2a512bb46a": "Ponów"
+        },
+        "EditorPanelHeader": {
+          "269ce4842b": "Kopiuj ścieżkę względną",
+          "7c08a1f990": "Kopiuj ścieżkę",
+          "84cdc0794b": "Zmień nazwę",
+          "5447c4f68f": "Spis treści",
+          "9b80bbe1de": "Otwórz kartę pliku",
+          "a10d9b8337": "Otwórz plik"
+        },
+        "EditorViewToggle": {
+          "e408aa9cd5": "Tabela",
+          "4837f3f578": "Zmiany",
+          "ac3bb87913": "Edytuj",
+          "0d193dc03c": "Podgląd",
+          "4d6ccb7ba6": "Źródło"
+        },
+        "ImageDiffViewer": {
+          "a651be62b0": "Zmodyfikowany"
+        },
+        "ImageViewer": {
+          "3c9217f5a6": "Powiększ",
+          "be27304574": "Pomniejsz"
+        },
+        "ImageViewerPopup": {
+          "535f4e2b56": "Zamknij"
+        },
+        "IpynbViewer": {
+          "7f0d7077c6": "Anuluj",
+          "1833dbbc43": "Markdown",
+          "7005960d73": "Kod",
+          "install": "Zainstaluj"
+        },
+        "MarkdownPreview": {
+          "e4683f70c4": "Anuluj"
+        },
+        "MarkdownTableOfContentsPanel": {
+          "a5daadd68b": "Rozwiń wszystko",
+          "06357eea60": "Spis treści",
+          "27d0a9c49a": "Spis treści"
+        },
+        "PanZoomImageDialog": {
+          "zoomOut": "Pomniejsz",
+          "zoomIn": "Powiększ",
+          "close": "Zamknij"
+        },
+        "PdfFind": {
+          "cd65b1d6b0": "Zamknij"
+        },
+        "PdfViewer": {
+          "2b6eb1ccd6": "Powiększ",
+          "fa5d096b00": "Pomniejsz"
+        },
+        "RichMarkdownCodeBlock": {
+          "232d9ed853": "Skopiowano",
+          "89d6cc14fb": "Mermaid",
+          "983b9576b4": "Markdown",
+          "8c4a3fa02d": "HTML",
+          "edfcc64182": "Przejdź",
+          "bf6ee5caaa": "Różnice"
+        },
+        "RichMarkdownErrorBoundary": {
+          "aad0998127": "Ponów"
+        },
+        "RichMarkdownSearchBar": {
+          "482b637099": "Rozróżniaj wielkość liter",
+          "fd97c7e585": "Zamień"
+        },
+        "RichMarkdownToolbar": {
+          "6d52624712": "Link",
+          "5d1539e5a9": "Lista punktowana",
+          "6b4ccf9493": "Kursywa",
+          "4f9e789fe0": "Pogrubienie",
+          "d34a2021c8": "Nagłówek 2",
+          "abb5100a3d": "Nagłówek 1",
+          "2cd9e0bbb3": "Nagłówki"
+        },
+        "UntitledFileRenameDialog": {
+          "a7dd27b0bc": "Zapisz",
+          "949711deb4": "Anuluj",
+          "725868c75d": "Przeglądaj foldery",
+          "30099dca46": "FOLDER",
+          "c8ac7868e6": "Nazwa pliku",
+          "b6ed807cc6": "Nazwa"
+        },
+        "rich": {
+          "markdown": {
+            "slash": {
+              "commands": {
+                "8a30cbaeca": "Emoji",
+                "19ea597868": "Tabela",
+                "56ff3237e7": "Lista punktowana",
+                "c209a116b7": "Nagłówek 2",
+                "e66e7f04c6": "Nagłówek 1"
+              }
+            }
+          }
+        },
+        "DiffViewer": {
+          "b5675b0694": "Zapisz"
+        },
+        "ExternalFileChangeBanner": {
+          "3fa2b8d417": "Wczytaj z dysku",
+          "a95d02c644": "Zachowaj moje zmiany",
+          "d1e830fa22": "Cofnij"
+        },
+        "ExternalFileChangeCompareDialog": {
+          "3fa2b8d417": "Wczytaj z dysku",
+          "a95d02c644": "Zachowaj moje zmiany"
+        },
+        "RichMarkdownTableControls": {
+          "addColumn": "Dodaj kolumnę",
+          "addRow": "Dodaj wiersz",
+          "deleteRow": "Usuń wiersz",
+          "deleteColumn": "Usuń kolumnę"
+        },
+        "CheckRunCopyButton": {
+          "copied": "Skopiowano"
+        },
+        "HtmlDocPreview": {
+          "documentPathCopied": "Skopiowano",
+          "copyDocumentRelativePathControl": "Kopiuj ścieżkę względną"
+        }
+      },
+      "diff": {
+        "comments": {
+          "DiffCommentCard": {
+            "109a791e7b": "Zapisz",
+            "0203bed775": "Anuluj",
+            "6978871a3d": "Otwórz"
+          },
+          "DiffCommentPopover": {
+            "2b3ce6d394": "Anuluj"
+          }
+        }
+      },
+      "dictation": {
+        "DictationController": {
+          "bb7f599ee7": "Otwórz ustawienia"
+        }
+      },
+      "dashboard": {
+        "DashboardAgentRow": {
+          "912e136cd9": "Wyślij"
+        }
+      },
+      "contextual": {
+        "tours": {
+          "ContextualTourOverlaySurface": {
+            "4a9568f773": "Wstecz",
+            "ffa4412b66": "Nast.",
+            "complete": "Gotowe"
+          },
+          "contextual": {
+            "tour": {
+              "overlay": {
+                "measurement": {
+                  "38b3155418": "Nast."
+                }
+              }
+            }
+          }
+        }
+      },
+      "cmd": {
+        "j": {
+          "quick": {
+            "actions": {
+              "verbs": {
+                "newFile": "Nowy plik"
+              }
+            }
+          }
+        }
+      },
+      "browser": {
+        "pane": {
+          "BrowserFind": {
+            "c9d5f63fdc": "Zamknij"
+          },
+          "BrowserPane": {
+            "fa6ea61de3": "Anuluj",
+            "ac39b9366b": "Wyślij",
+            "781d6459ad": "Ponów",
+            "8b6fab9ffa": "Zapisz",
+            "0e080d820e": "Odśwież",
+            "b7e4d9c1a2": "Zatrzymaj",
+            "40edfa75cb": "Wstecz",
+            "90d021f2ad": "Dodaj",
+            "d51ef37351": "Kopiuj",
+            "6f4ab3592b": "Skopiowano",
+            "26615e116b": "błąd",
+            "756bfc25c9": "Otwórz",
+            "2a4c4b8e1f": "Kopiuj",
+            "undo": "Cofnij",
+            "selectAll": "Zaznacz wszystkie"
+          },
+          "BrowserToolbarMenu": {
+            "429ef481f9": "Anuluj",
+            "58f2c81542": "Przełącz",
+            "zoom": "Powiększenie",
+            "zoomOut": "Pomniejsz",
+            "zoomIn": "Powiększ",
+            "appearance": "Wygląd"
+          },
+          "GrabConfirmationSheet": {
+            "26fd87f4df": "Kopiuj",
+            "87d97bdd6d": "Anuluj",
+            "7d1480fbf1": "HTML"
+          },
+          "annotate": {
+            "use": {
+              "browser": {
+                "page": {
+                  "grab": {
+                    "annotations": {
+                      "0c7b9b2b7a": "Skopiowano"
+                    }
+                  }
+                }
+              }
+            },
+            "browser": {
+              "page": {
+                "annotation": {
+                  "tray": {
+                    "c16f932cb3": "Zapisz",
+                    "024467ceac": "Anuluj"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "webauthn": {
+          "account": {
+            "cancel": "Anuluj"
+          }
+        }
+      },
+      "automations": {
+        "AutomationDetail": {
+          "29baf8f4c2": "Źródło"
+        },
+        "AutomationEditorDialog": {
+          "fb1896a5e7": "Anuluj",
+          "a9d9dccf77": "Zapisz"
+        },
+        "AutomationsPage": {
+          "2695883141": "Usuń",
+          "bb1b2cd31e": "Przegląd",
+          "15e0bfb13b": "Usuń",
+          "f4612e3f78": "Edytuj",
+          "82eb6cb933": "Źródło",
+          "587a4b205c": "Nast.",
+          "73f630b49d": "Anuluj",
+          "1b586f0e2b": "Wł.",
+          "1e2e41392f": "Nie pytaj ponownie",
+          "8a3226f172": "Otwórz ustawienia",
+          "f93ed7a6f8": "Łączenie...",
+          "tableName": "Nazwa"
+        },
+        "ExternalAutomationManagers": {
+          "20fd7a3a15": "Nast.",
+          "b3feba84c7": "Aktywna"
+        },
+        "automation": {
+          "list": {
+            "last": {
+              "run": {
+                "done": "Gotowe"
+              }
+            }
+          }
+        },
+        "AutomationProjectCombobox": {
+          "addProject": "Dodaj projekt"
+        },
+        "AutomationListFilterMenu": {
+          "all": "Wszystkie"
+        },
+        "hostStatus": {
+          "authority": {
+            "fresh": "Aktualna wersja"
+          },
+          "execution": {
+            "connected": "połączono",
+            "disconnected": "niepołączono"
+          },
+          "action": {
+            "retry": "Ponów"
+          }
+        },
+        "AutomationRunsDashboard": {
+          "local": "Lokalny"
+        }
+      },
+      "activity": {
+        "ActivityPrototypePage": {
+          "795cbf26e2": "Filtruj...",
+          "none": "Brak",
+          "search": "Szukaj",
+          "state": {
+            "done": "Gotowe"
+          }
+        },
+        "clearCompleted": {
+          "undo": "Cofnij"
+        },
+        "ActivityThreadHoverCard": {
+          "copyPath": "Kopiuj ścieżkę"
+        },
+        "ActivityThreadContextMenu": {
+          "copyPath": "Kopiuj ścieżkę",
+          "open": "Otwórz"
+        }
+      },
+      "confirmation": {
+        "dialog": {
+          "56f5c60e0c": "Anuluj",
+          "92bac3217e": "Nie pytaj ponownie"
+        },
+        "skip": {
+          "openSettings": "Otwórz ustawienia"
+        }
+      },
+      "jira": {
+        "connect": {
+          "dialog": {
+            "79e7aaed39": "Anuluj"
+          }
+        }
+      },
+      "link": {
+        "routing": {
+          "preference": {
+            "dialog": {
+              "preview": "Podgląd",
+              "link": {
+                "label": "Link"
+              }
+            }
+          }
+        }
+      },
+      "nativeChat": {
+        "contextMenu": {
+          "copy": "Kopiuj"
+        }
+      },
+      "sleepbanana": {
+        "profiles": {
+          "signout": {
+            "confirm": {
+              "cancel": "Anuluj"
+            }
+          }
+        }
+      },
+      "linear-issue-attribute-filter-sections": {
+        "back": "Wstecz"
+      },
+      "browser-pane": {
+        "markup": {
+          "cancel": "Anuluj",
+          "drawHintBadge": "Nowy",
+          "fontSize": "Rozmiar czcionki",
+          "tool": {
+            "text": "Tekst"
+          },
+          "undo": "Cofnij"
+        }
+      },
+      "pluginCatalog": {
+        "PluginCatalogLayout": {
+          "all": "Wszystkie",
+          "installed": "Zainstalowano"
+        }
+      },
+      "artifacts": {
+        "ArtifactsPage": {
+          "delete": "Usuń",
+          "retry": "Ponów"
+        },
+        "ArtifactDetailHeader": {
+          "close": "Zamknij"
+        },
+        "ArtifactListTableHeader": {
+          "name": "Nazwa",
+          "type": "Typ",
+          "size": "Rozmiar"
+        },
+        "typeMarkdown": "Markdown",
+        "typeHtml": "HTML"
+      },
+      "native": {
+        "chat": {
+          "NativeChatLaunchRetry": {
+            "retry": "Ponów"
+          }
+        }
+      },
+      "browserPane": {
+        "workspaceDoc": {
+          "externalLinkCancel": "Anuluj"
+        },
+        "externalApp": {
+          "cancel": "Anuluj"
+        },
+        "httpAuth": {
+          "cancel": "Anuluj"
+        }
+      },
+      "NativeChatResumeOutcomeRow": {
+        "retry": "Ponów"
+      },
+      "NativeChatResumeRunSummary": {
+        "all": "Wszystkie"
+      },
+      "TaskPageJiraSavedFilters": {
+        "e4c2f52972": "Nazwa",
+        "a62f9db53d": "Anuluj"
+      },
+      "SleepBananaSignInProgress": {
+        "cancel": "Anuluj"
+      }
+    },
+    "ssh": {
+      "sshConnectVerb": {
+        "retry": "Ponów"
+      }
+    },
+    "main": {
+      "window": {
+        "editableContextMenu": {
+          "table": "Tabela",
+          "deleteRow": "Usuń wiersz",
+          "deleteColumn": "Usuń kolumnę"
+        }
+      }
+    }
+  },
+  "components": {
+    "onboarding": {
+      "flow": {
+        "stepTooltip": {
+          "theme": "Wygląd",
+          "integrations": "Integracje",
+          "language": "Język",
+          "productFolder": "Folder",
+          "workspaceMode": "Przestrzeń robocza"
+        },
+        "actions": {
+          "continue": "Kontynuuj"
+        }
+      }
+    },
+    "native-chat": {
+      "turnDiff": {
+        "hideDiff": "Ukryj diff"
+      },
+      "notices": {
+        "plan": "Plan"
+      },
+      "composer": {
+        "send": "Wyślij",
+        "commands": "Polecenia",
+        "retrySkills": "Ponów",
+        "skillScopeBuiltIn": "Wbudowany",
+        "optionValue": {
+          "high": "Wysoki"
+        }
+      },
+      "tool": {
+        "row": {
+          "added": "Dodany",
+          "deleted": "Usunięty",
+          "renamed": "Zmieniona nazwa"
+        }
+      },
+      "backgroundTasks": {
+        "stop": "Zatrzymaj",
+        "stateDone": "Gotowe",
+        "stateIdle": "Zatrzymano"
+      },
+      "jumpToLatest": "Przejdź na dół",
+      "newRowsMarker": "Nowy",
+      "find": {
+        "close": "Zamknij"
+      },
+      "copyMessage": {
+        "copied": "Skopiowano"
+      },
+      "prompt": {
+        "collapse": "Zwiń"
+      },
+      "question": {
+        "cancel": "Anuluj",
+        "next": "Nast."
+      },
+      "approval": {
+        "deny": "Odrzuć",
+        "cancel": "Anuluj"
+      },
+      "subagents": {
+        "state": {
+          "stopped": "Zatrzymano"
+        }
+      },
+      "rewind": {
+        "cancel": "Anuluj"
+      },
+      "visualOpenInNewTab": "Otwórz w nowej karcie",
+      "queuedMessages": {
+        "send": "Wyślij",
+        "delete": "Usuń",
+        "save": "Zapisz",
+        "collapse": "Zwiń"
+      },
+      "interruptedContinue": {
+        "continue": "Kontynuuj"
+      },
+      "resumeCommand": {
+        "replace": "Zamień"
+      }
+    },
+    "tab": {
+      "bar": {
+        "BrowserTab": {
+          "closeOthers": "Zamknij pozostałe"
+        },
+        "EditorFileTabContextMenu": {
+          "closeOthers": "Zamknij pozostałe"
+        }
+      }
+    },
+    "workspace": {
+      "cleanup": {
+        "browse": {
+          "facet": {
+            "activity": "Aktywność"
+          },
+          "pinned": "Przypięto",
+          "sort": {
+            "size": "Rozmiar",
+            "path": "Ścieżka"
+          },
+          "git": {
+            "clean": "czysto"
+          },
+          "review": {
+            "open": "Otwórz",
+            "otherProvider": "Inne"
+          },
+          "chip": {
+            "none": "Brak",
+            "kind": {
+              "pinned": "Przypięto"
+            }
+          }
+        }
+      }
+    },
+    "settings": {
+      "terminal": {
+        "clipboard": {
+          "search": {
+            "highlight": "Wyróżnienie",
+            "chat": "Czat"
+          }
+        }
+      },
+      "nativeChat": {
+        "resumeSearchUpdate": "Aktualizuj",
+        "queueSearchQueue": "Kolejkuj",
+        "shellEnvSearchPath": "Ścieżka"
+      }
+    },
+    "managed-runtime": {
+      "installed": "Zainstalowano",
+      "removeConfirm": "Usuń",
+      "removeKeep": "Anuluj",
+      "update": "Aktualizuj",
+      "installShort": "Zainstaluj",
+      "cancelShort": "Anuluj"
+    }
+  },
+  "dashboardPopout": {
+    "bucket": {
+      "empty": "Brak",
+      "done": "Gotowe"
+    },
+    "terminal": {
+      "close": "Zamknij"
+    },
+    "filters": {
+      "clear": "Wyczyść",
+      "review": {
+        "open": "Otwórz"
+      }
+    }
+  },
+  "dashboard": {
+    "sidebar": {
+      "projects": "Projekty"
+    }
+  },
+  "featureTips": {
+    "nativeChatUpgrade": {
+      "eyebrow": "Nowy"
+    },
+    "voice": {
+      "listening": "Nasłuchiwanie..."
+    },
+    "sessionSearch": {
+      "demoRoleUser": "Użytkownik",
+      "readyToastOpen": "Otwórz"
+    }
+  },
+  "rendererRecovery": {
+    "reload": "Odśwież"
+  },
+  "notifications": {
+    "agentStatus": {
+      "stopped": "Zatrzymano"
+    }
+  },
+  "sessionHistory": {
+    "settings": {
+      "delete": "Wyczyść",
+      "open": "Otwórz"
+    },
+    "dialog": {
+      "open": "Otwórz"
+    }
+  },
+  "common": {
+    "retry": "Ponów",
+    "cancel": "Anuluj"
+  },
+  "terminal": {
+    "codexTerminalServerIsolationNotice": {
+      "openSettings": "Otwórz ustawienia"
+    },
+    "codexSharedServerBanner": {
+      "fix": "Popraw",
+      "copy": "Kopiuj",
+      "copied": "Skopiowano",
+      "done": "Gotowe",
+      "stopped": "Zatrzymano",
+      "cancel": "Anuluj"
+    },
+    "severedDaemonBanner": {
+      "cancel": "Anuluj"
+    }
+  },
+  "fileExplorer": {
+    "root": {
+      "retry": "Ponów"
+    }
+  },
+  "sparsePreset": {
+    "name": "Nazwa",
+    "cancel": "Anuluj",
+    "pathAdded": "Dodany",
+    "addTypedPath": "Dodaj"
+  },
+  "accounts": {
+    "antigravity": {
+      "chatCancel": "Anuluj",
+      "chatContinue": "Kontynuuj",
+      "retry": "Ponów",
+      "remove": "Usuń"
+    },
+    "claude": {
+      "switchSessions": {
+        "selectAll": "Zaznacz wszystkie"
+      }
+    },
+    "managedData": {
+      "copied": "Skopiowano",
+      "active": "Aktywna",
+      "remove": "Usuń",
+      "cancel": "Anuluj"
+    },
+    "hostSignIn": {
+      "copied": "Skopiowano",
+      "continue": "Kontynuuj",
+      "open": "Otwórz",
+      "cancel": "Anuluj"
+    }
+  },
+  "worktree": {
+    "nestedRemoval": {
+      "detached": "Odłączony HEAD",
+      "cancel": "Anuluj"
+    }
+  },
+  "workspace": {
+    "links": {
+      "linkedResult": "Powiązana",
+      "notes": "Notatki",
+      "retrySource": "Ponów"
+    }
+  },
+  "jira": {
+    "prompt": {
+      "template": "Szablon",
+      "preview": "Podgląd"
+    },
+    "savedFilters": {
+      "retry": "Ponów"
+    },
+    "transitions": {
+      "retry": "Ponów",
+      "back": "Wstecz"
+    },
+    "board": {
+      "list": "Lista",
+      "cancel": "Anuluj"
+    }
+  },
+  "workspaceSpace": {
+    "compact": {
+      "linked": "Powiązana"
+    },
+    "changes": {
+      "untracked": "Nieśledzony"
+    }
+  },
+  "onboarding": {
+    "language": {
+      "retry": "Ponów",
+      "loadingPlain": "Ładowanie...",
+      "stepHint": "Język interfejsu możesz zmienić w dowolnym momencie w Ustawienia -> Wygląd."
+    },
+    "intelligence": {
+      "retry": "Ponów",
+      "readyTitle": "Twój Prywatny Mózg AI jest gotowy",
+      "activatingTitle": "Aktywowanie Prywatnego Mózgu AI",
+      "degradedTitle": "Lokalna przestrzeń robocza gotowa",
+      "readySubtitle": "100% prywatnie na tym urządzeniu — pamięta Twoje notatki, decyzje i recenzje we wszystkich projektach.",
+      "activatingSubtitle": "Cicha konfiguracja prywatnej pamięci lokalnej i inteligencji wielomodelowej w tle.",
+      "degradedSubtitle": "Przestrzeń robocza działa offline od razu. Lokalne silniki możesz dokończyć później w Ustawieniach.",
+      "bundledLocally": "Wbudowane lokalnie",
+      "localDevice": "Urządzenie lokalne",
+      "onDeviceBadge": "Na urządzeniu",
+      "underTheHood": "Szczegóły techniczne",
+      "memoryTitle": "Żywa pamięć",
+      "memoryDescription": "Pamięta notatki, decyzje i kontekst między sesjami — wyszukiwanie w milisekundach, 100% lokalnie.",
+      "memoryIndexed": "Indeks gotowy",
+      "councilTitle": "Rada wielomodelowa",
+      "councilDescription": "Nie polegaj na jednym modelu AI. Recenzuj dokumenty, plany lub kod z wielu niezależnych perspektyw.",
+      "councilDetected": "Gotowe narzędzia AI: {{count}}",
+      "syncTitle": "Jedna pamięć wszędzie",
+      "syncDescription": "Twój kontekst jest zsynchronizowany między dokumentami, terminalami, przeglądarką i każdym agentem AI.",
+      "privateLocalReady": "Prywatnie · Lokalnie",
+      "backgroundBadge": "Konfiguracja w tle",
+      "reducedBadge": "Gotowe offline",
+      "noCloudNote": "Zero telemetrii · Nigdy nie blokuje konfiguracji"
+    },
+    "flow": {
+      "language": {
+        "title": "Wybierz język",
+        "subtitle": "Wybierz język interfejsu używany w całym SleepBanana."
+      },
+      "workspaceMode": {
+        "title": "Jak najczęściej pracujesz?",
+        "subtitle": "Wybierz punkt startowy w jednolitym obszarze roboczym SleepBanana. Dokumenty, terminale i Prywatny Mózg AI są zawsze gotowe."
+      },
+      "productFolder": {
+        "title": "Otwórz lub utwórz folder",
+        "subtitle": "Wybierz lokalny folder na notatki, arkusze i dokumenty lub utwórz nowy."
+      },
+      "actions": {
+        "continueToStudio": "Przejdź do przestrzeni roboczej"
+      }
+    },
+    "workspaceMode": {
+      "product": {
+        "title": "Produkt, dokumenty i wiedza",
+        "description": "Notatki, Markdown, arkusze, tablice Kanban, dokumenty Word i spokojna lokalna przestrzeń pracy."
+      },
+      "developer": {
+        "title": "Inżynieria, kod i agenci",
+        "description": "Trwała konsola, worktree Git, agenci programistyczni AI i wielopanelowy przepływ pracy."
+      },
+      "unifiedHint": "Wszystko działa w jednej spójnej przestrzeni roboczej — dokumenty, Kanban, terminale i Prywatny Mózg AI są zawsze pod ręką."
+    },
+    "productFolder": {
+      "openTitle": "Otwórz istniejący folder",
+      "openDescription": "Wybierz dowolny folder na komputerze z notatkami, Markdown, arkuszami lub dokumentami Word.",
+      "createTitle": "Utwórz nowy folder",
+      "createDescription": "Rozpocznij nowy lokalny folder roboczy bez konfiguracji i kontroli wersji.",
+      "nameLabel": "Nazwa folderu",
+      "locationLabel": "Lokalizacja",
+      "browse": "Przeglądaj",
+      "createSubmit": "Utwórz i otwórz"
+    }
+  },
+  "resourceManager": {
+    "pty": {
+      "ownerPresent": "Prezentuj",
+      "cancel": "Anuluj",
+      "retry": "Ponów"
+    }
+  },
+  "sleepbanana": {
+    "home": {
+      "folderContents": "Zawartość folderu",
+      "filterPlaceholder": "Filtruj elementy...",
+      "sortName": "Nazwa",
+      "sortModified": "Zmodyfikowany",
+      "sortSize": "Rozmiar",
+      "sortType": "Typ",
+      "folderEmpty": "Ten folder jest pusty.",
+      "folderLabel": "FOLDER",
+      "folderSingular": "FOLDER",
+      "filePlural": "Pliki",
+      "newFile": "Nowy plik",
+      "newFolder": "Nowy folder",
+      "dailyNote": "Notatka dzienna",
+      "search": "Szukaj",
+      "copied": "Skopiowano",
+      "path": "Ścieżka",
+      "finder": "Finder",
+      "browseFiles": "Przeglądaj pliki",
+      "none": "Brak",
+      "filesStat": "Pliki",
+      "totalSize": "Łączny rozmiar",
+      "catMarkdown": "Markdown",
+      "gitStatus": "Status Git",
+      "workingTreeClean": "Drzewo robocze czyste",
+      "contentBreakdown": "Struktura zawartości",
+      "recentlyModified": "Ostatnio modyfikowane",
+      "catCode": "Kod",
+      "catData": "Dane",
+      "catMedia": "Media",
+      "catDocs": "Dokumenty",
+      "catOther": "Inne"
+    },
+    "common": {
+      "clearFilter": "Wyczyść filtr",
+      "retry": "Ponów",
+      "close": "Zamknij"
+    },
+    "topbar": {
+      "askOperator": "Zapytaj Operatora",
+      "settings": "Ustawienia"
+    },
+    "views": {
+      "knowledgeGraph": "Graf wiedzy",
+      "projectHome": "Start projektu"
+    },
+    "reading": {
+      "title": "Wygląd czytania"
+    },
+    "appearance": {
+      "reset": "Resetuj",
+      "widthA4": "DIN A4",
+      "widthWide": "Szeroka",
+      "fontSans": "Sans",
+      "fontSerif": "Serif",
+      "fontMono": "Mono",
+      "fontReadable": "Czytelna",
+      "theme": "Motyw",
+      "themeAuto": "Auto",
+      "widthStd": "Std",
+      "width": "Szerokość",
+      "zoom": "Powiększenie",
+      "zoomOut": "Pomniejsz",
+      "zoomReset": "Przywróć powiększenie 100%",
+      "zoomIn": "Powiększ",
+      "font": "Czcionka",
+      "focus": "Skupienie",
+      "fullscreen": "Pełny ekran"
+    },
+    "sidebar": {
+      "agentsLive": "Na żywo",
+      "agentsHistory": "Historia",
+      "openFolder": "Otwórz folder",
+      "projectsWorkspaces": "Projekty i Przestrzenie"
+    },
+    "outline": {
+      "dailyNoteTitle": "Otwórz lub utwórz dzisiejszą notatkę",
+      "headingsTitle": "Konspekt",
+      "tagsTitle": "Tagi"
+    },
+    "tabOverview": {
+      "closeOthers": "Zamknij pozostałe",
+      "title": "Otwarte karty",
+      "searchPlaceholder": "Filtruj karty po nazwie, folderze lub treści...",
+      "activeBadge": "Aktywna",
+      "footerHint": "Kliknij miniaturę, aby przełączyć · Strzałki i Enter · Esc zamyka"
+    },
+    "savedLayouts": {
+      "title": "Zapisane układy",
+      "placeholder": "Nazwa układu...",
+      "save": "Zapisz",
+      "empty": "Brak zapisanych układów w tym obszarze roboczym"
+    },
+    "mobile": {
+      "preview": {
+        "tabHome": "Katalog domowy",
+        "tabOperator": "Operator"
+      }
+    },
+    "board": {
+      "activeWorkspace": "Aktywna"
+    }
+  }
+}

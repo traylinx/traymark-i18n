@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "repo": "traylinx/sleepbanana-i18n",
+  "branch": "main",
+  "surface": "desktop",
+  "canonicalKeys": 17374,
+  "updatedAt": "2026-11-28",
+  "locales": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/en.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/es.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/fr.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "ja",
+      "name": "Japanese",
+      "nativeName": "日本語",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/ja.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "ko",
+      "name": "Korean",
+      "nativeName": "한국어",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/ko.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "pt",
+      "name": "Portuguese (Brazil)",
+      "nativeName": "Português (Brasil)",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/pt.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "zh",
+      "name": "Chinese (Simplified)",
+      "nativeName": "中文 (简体)",
+      "dir": "ltr",
+      "bundled": true,
+      "file": "desktop/zh.json",
+      "version": "1.2.4",
+      "author": "SleepBanana Core",
+      "coveragePct": 100,
+      "translatedKeys": 17374
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "desktop/de.json",
+      "coveragePct": 8,
+      "translatedKeys": 1453,
+      "version": "1.2.3",
+      "author": "SleepBanana Community"
+    },
+    {
+      "code": "pl",
+      "name": "Polish",
+      "nativeName": "Polski",
+      "dir": "ltr",
+      "bundled": false,
+      "file": "desktop/pl.json",
+      "coveragePct": 8,
+      "translatedKeys": 1453,
+      "version": "1.2.3",
+      "author": "SleepBanana Community"
+    }
+  ]
+}
